@@ -1,0 +1,2 @@
+# Logistic_Regression
+Dataset: The dataset can be found on the Kaggle website. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and can be used to predict whether a patient has diabetes based on certain diagnostic factors. Starting off, I use Python 3.3 to implement the model. It is important to perform some basic analysis to get an overall idea of the dataset.
